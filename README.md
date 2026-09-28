@@ -15,9 +15,7 @@
   <a href="https://medium.com/@bihansamanudi">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://github.com/bihansamanudi00-eng">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
 </p>
 
 </div>
